@@ -18,8 +18,8 @@ package main
 import (
 	"log"
 
-	"github.com/citrix/adc-nitro-go/resource/config/basic"
-	"github.com/citrix/adc-nitro-go/service"
+	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/basic"
+	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/service"
 )
 
 func example2() {

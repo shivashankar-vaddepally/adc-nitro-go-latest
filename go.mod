@@ -1,4 +1,4 @@
-module github.com/shivashankar-vaddepally/adc-nitro-go-latest
+module github.com/shivashankar-vaddepally/nitro-go-adc-latest
 
 go 1.14
 
