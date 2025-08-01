@@ -21,8 +21,8 @@ import (
 	"testing"
 	"strconv"
 
-	"github.com/citrix/adc-nitro-go/resource/config/basic"
-	"github.com/citrix/adc-nitro-go/resource/config/lb"
+	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/basic"
+	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/lb"
 )
 
 func TestNitroClient_FindAllStats(t *testing.T) {
