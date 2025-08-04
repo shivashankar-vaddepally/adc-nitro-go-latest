@@ -25,10 +25,10 @@ import (
 
 	"os"
 
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/basic"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/lb"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/network"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/ns"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/basic"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/lb"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/network"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/ns"
 )
 
 var client *NitroClient
