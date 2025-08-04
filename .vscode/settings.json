@@ -1,0 +1,19 @@
+{
+    // General editor settings
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    
+    // Go-specific settings
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": false,
+        "editor.codeActionsOnSave": {
+			"source.organizeImports": "never"
+		}
+    },
+    
+    // Disable auto-formatting that might be causing extra tabs
+    "go.formatOnSave": false,
+    "go.useLanguageServer": true
+}

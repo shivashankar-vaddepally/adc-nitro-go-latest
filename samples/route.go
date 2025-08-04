@@ -18,8 +18,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/network"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/service"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/network"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/service"
 )
 
 func main() {

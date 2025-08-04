@@ -18,9 +18,9 @@ package main
 import (
 	"log"
 
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/basic"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/resource/config/lb"
-	"github.com/shivashankar-vaddepally/nitro-go-adc-latest/service"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/basic"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/resource/config/lb"
+	"github.com/shivashankar-vaddepally/adc-nitro-go-latest/service"
 )
 
 func main() {
